@@ -1,0 +1,5 @@
+Make a MYSQL database, create some tables
+Write a python code to connect to the database and generate the file from the table
+
+layout llm 
+detectron

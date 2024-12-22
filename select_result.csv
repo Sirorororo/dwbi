@@ -1,0 +1,9 @@
+id,name,age,gender,created_at
+1,John Doe,20,Male,2024-12-21 21:21:27
+2,Jane Smith,22,Female,2024-12-21 21:21:27
+3,Alex Johnson,19,Other,2024-12-21 21:21:27
+4,Emily Davis,21,Female,2024-12-21 21:21:27
+5,John Doe,20,Male,2024-12-21 21:21:43
+6,Jane Smith,22,Female,2024-12-21 21:21:43
+7,Alex Johnson,19,Other,2024-12-21 21:21:43
+8,Emily Davis,21,Female,2024-12-21 21:21:43
